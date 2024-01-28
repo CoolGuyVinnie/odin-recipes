@@ -1,0 +1,13 @@
+/* External CSS page */
+
+h1 {
+    font-family: "Times New Roman", serif;
+    color: green;
+    background-color: red;
+}
+
+p {
+    color: green;
+    background-color: yellow;
+    font-size: 24px;
+}
