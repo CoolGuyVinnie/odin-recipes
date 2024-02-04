@@ -1,13 +1,14 @@
-/* External CSS page */
+/* Main Recipe Page */
 
-h1 {
+.main-title {
     font-family: "Times New Roman", serif;
-    color: green;
-    background-color: red;
+    color: rgb(192, 79, 79);
 }
 
-p {
-    color: green;
-    background-color: yellow;
-    font-size: 24px;
+.recipe {
+    font-family: "Times New Roman", serif;
+    background-color: rgb(240, 183, 183);
+    width: 140px;
+    margin: 12px;
+    padding: 8px;
 }
